@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 modified content in master branch
+=======
+modified the file in branch3
+>>>>>>> branch3
